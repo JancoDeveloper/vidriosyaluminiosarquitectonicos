@@ -1,9 +1,9 @@
 ---
 template: ComponentsPage
 slug: components
-title: Components Page
-featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
-subtitle: This is the components page subtitle.
+title: "Vidrios y Aluminios Arquitectónicos "
+featuredImage: https://ucarecdn.com/5e0c1f5a-847d-4f85-90aa-a01a24c819d2/-/preview/
+subtitle: "*Hacemos todo tipo de trabajos en Aluminio, volviendo tus ideas realidad.*"
 section1: >-
   ## This is a container component
 
